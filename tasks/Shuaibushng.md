@@ -3,7 +3,7 @@
 >1. Git, GitHub and Repository
 >2. Commit Changes With Terminal Command
 >3. Commit Changes Using GitHub Desktop
->4. Clun a Repositories into a Code space or VScode
+>4. Clone a Repositories into a Code space or VScode
 >5. Marge Conflicts and Resolved it
 ## Weekly Activity.
 ### Week 1.
@@ -20,7 +20,7 @@ Typing the Following Command;
 4. `Git Push:` its enable you to Upload All changes back to the original GitHub Project
 ---
 ### Week 3. 
-* I learn how to commit changes in GitHub project with GitHub Desktop App by Clun My project with GitHub Desktop to edit the project with VScode then commit the changes and Push it back into the original project on GitHub Account all by Using with GitHub Desktop.
+* I learn how to commit changes in GitHub project with GitHub Desktop App by Clone My project with GitHub Desktop to edit the project with VScode then commit the changes and Push it back into the original project on GitHub Account all by Using with GitHub Desktop.
 ---
 ### Week 4.
 * I learn Merge Conflicts and how Resolve it.
